@@ -1,0 +1,87 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega324PB"</DEVICE>
+ <WORKING_DIR>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m324PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\Debug\EE3150_Project1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>EE3150_Project1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>EE3150_Project1.map</FILE>
+  <FILE>EE3150_Project1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>18</LINE></START>
+  <RUN_DELAY><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>286</LINE></RUN_DELAY>
+  <CHECK_SW1><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>22</LINE></CHECK_SW1>
+  <CHECK_SW2><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>29</LINE></CHECK_SW2>
+  <GO_DOWN><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>98</LINE></GO_DOWN>
+  <WRAP_BOTTOM><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>71</LINE></WRAP_BOTTOM>
+  <CHECK_SW3><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>36</LINE></CHECK_SW3>
+  <GO_UP><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>94</LINE></GO_UP>
+  <WRAP_TOP><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>83</LINE></WRAP_TOP>
+  <CHECK_SW4><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>41</LINE></CHECK_SW4>
+  <JURASSIC_PARK_THEME><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>298</LINE></JURASSIC_PARK_THEME>
+  <CHECK_SW7><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>52</LINE></CHECK_SW7>
+  <ANNOYING><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>45</LINE></ANNOYING>
+  <RAVE_MODE><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>278</LINE></RAVE_MODE>
+  <CHECK_SW8><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>57</LINE></CHECK_SW8>
+  <PLAYTONE_E5><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>150</LINE></PLAYTONE_E5>
+  <CHECK_SW9><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>62</LINE></CHECK_SW9>
+  <PLAYTONE_F5><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>162</LINE></PLAYTONE_F5>
+  <PLAYTONE_G5><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>175</LINE></PLAYTONE_G5>
+  <PLAY_WRAPTONE><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>133</LINE></PLAY_WRAPTONE>
+  <OUTPUT><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>103</LINE></OUTPUT>
+  <CORNERS><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>264</LINE></CORNERS>
+  <MIDDLES><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>271</LINE></MIDDLES>
+  <WRAPTONE_DELAY><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>124</LINE></WRAPTONE_DELAY>
+  <WRAPDELAY_L2><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>125</LINE></WRAPDELAY_L2>
+  <WRAPDELAY_L1><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>126</LINE></WRAPDELAY_L1>
+  <PLAYWRAP_L2><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>134</LINE></PLAYWRAP_L2>
+  <PLAYWRAP_L1><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>135</LINE></PLAYWRAP_L1>
+  <PLAYE5_L2><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>151</LINE></PLAYE5_L2>
+  <PLAYE5_L1><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>152</LINE></PLAYE5_L1>
+  <TONEDELAY_E5><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>215</LINE></TONEDELAY_E5>
+  <PLAYF5_L2><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>163</LINE></PLAYF5_L2>
+  <PLAYF5_L1><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>164</LINE></PLAYF5_L1>
+  <TONEDELAY_F5><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>223</LINE></TONEDELAY_F5>
+  <PLAYG5_L2><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>176</LINE></PLAYG5_L2>
+  <PLAYG5_L1><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>177</LINE></PLAYG5_L1>
+  <TONEDELAY_G5><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>231</LINE></TONEDELAY_G5>
+  <PLAYTONE_E4><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>188</LINE></PLAYTONE_E4>
+  <PLAYE4_L2><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>189</LINE></PLAYE4_L2>
+  <PLAYE4_L1><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>190</LINE></PLAYE4_L1>
+  <TONEDELAY_E4><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>239</LINE></TONEDELAY_E4>
+  <PLAYTONE_E8><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>201</LINE></PLAYTONE_E8>
+  <PLAYE8_L2><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>202</LINE></PLAYE8_L2>
+  <PLAYE8_L1><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>203</LINE></PLAYE8_L1>
+  <TONEDELAY_E8><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>247</LINE></TONEDELAY_E8>
+  <DELAYE5_L2><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>216</LINE></DELAYE5_L2>
+  <DELAYE5_L1><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>217</LINE></DELAYE5_L1>
+  <DELAYF5_L2><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>224</LINE></DELAYF5_L2>
+  <DELAYF5_L1><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>225</LINE></DELAYF5_L1>
+  <DELAYG5_L2><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>232</LINE></DELAYG5_L2>
+  <DELAYG5_L1><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>233</LINE></DELAYG5_L1>
+  <DELAYE4_L2><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>240</LINE></DELAYE4_L2>
+  <DELAYE4_L1><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>241</LINE></DELAYE4_L1>
+  <DELAYE8_L2><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>248</LINE></DELAYE8_L2>
+  <DELAYE8_L1><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>249</LINE></DELAYE8_L1>
+  <TONEDELAY_D5><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>255</LINE></TONEDELAY_D5>
+  <DELAYD5_L2><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>256</LINE></DELAYD5_L2>
+  <DELAYD5_L1><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>257</LINE></DELAYD5_L1>
+  <L4><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>287</LINE></L4>
+  <L3><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>288</LINE></L3>
+  <L_NOP><FILE>C:\Users\Jacob Lipina\Documents\Atmel Studio\Tutorial Files\EE3150_Project1\EE3150_Project1\main.asm</FILE><LINE>289</LINE></L_NOP>
+ </LABELS>
+</ASSEMBLER_INFO>

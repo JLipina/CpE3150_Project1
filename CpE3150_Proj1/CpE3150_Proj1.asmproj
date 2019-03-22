@@ -11,9 +11,9 @@
     <OutputFileExtension>.obj</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
     <Language>ASSEMBLY</Language>
-    <AssemblyName>EE3150_Project1</AssemblyName>
-    <Name>EE3150_Project1</Name>
-    <RootNamespace>EE3150_Project1</RootNamespace>
+    <AssemblyName>CpE3150_Proj1</AssemblyName>
+    <Name>CpE3150_Proj1</Name>
+    <RootNamespace>CpE3150_Proj1</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <EntryFile>$(MSBuildProjectDirectory)\main.asm</EntryFile>
     <KeepTimersRunning>true</KeepTimersRunning>
@@ -77,6 +77,7 @@
   <avrasm.assembler.general.IncludeFile>m324PBdef.inc</avrasm.assembler.general.IncludeFile>
 </AvrAssembler>
     </ToolchainSettings>
+    <OutputType>Executable</OutputType>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
     <ToolchainSettings>

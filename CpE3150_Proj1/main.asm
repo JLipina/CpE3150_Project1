@@ -74,7 +74,7 @@ YEET:		CALL RAVE_MODE ; rave mode x5
 
 ;Binary wrapping from 0 to 15
 WRAP_BOTTOM:	LDI R23, 15
-				CALL PLAY_WRAPTONE
+				CALL JURASSIC_PARK_THEME
 				CALL OUTPUT ; bit masking routine on
 				CALL CORNERS
 				CALL RUN_DELAY
@@ -86,7 +86,7 @@ WRAP_BOTTOM:	LDI R23, 15
 
 ;Binary wrapping from 15 to 0
 WRAP_TOP:		LDI R23, 0
-				CALL PLAY_WRAPTONE
+				CALL JURASSIC_PARK_THEME
 				CALL OUTPUT ; bit masking routine on
 				CALL CORNERS
 				CALL RUN_DELAY
@@ -97,10 +97,12 @@ WRAP_TOP:		LDI R23, 0
 				RET
 
 GO_UP:			INC R23
+				CALL PLAYTONE_E8
 				CALL OUTPUT
 				JMP CHECK_SW7
 
 GO_DOWN:		DEC R23
+				CALL PLAYTONE_G5
 				CALL OUTPUT ; bit masking routine on
 				JMP CHECK_SW2
 
@@ -700,6 +702,4 @@ MORSE_CODE:
 	   RET
 	   CALL FIFTEEN_MORSE 
 	   RET
-
-
 
